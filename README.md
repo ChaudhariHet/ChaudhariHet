@@ -15,7 +15,6 @@ Passionate about building scalable web applications, exploring Artificial Intell
 - 👯 Open to collaborating on **Open Source, Full Stack, AI/ML, and Hackathon Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Python, Git & GitHub**
 - 📫 Reach me at **chaudharihet2911@gmail.com**
-- 📄 Resume: **https://drive.google.com/file/d/1dzqgvfyk8WrzNEufKrGQMhm0ccEk-y0E/view**
 
 ---
 

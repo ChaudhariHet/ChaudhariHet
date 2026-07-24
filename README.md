@@ -1,4 +1,4 @@
-# Hi 👋, I'm Het Chaudhari
+# Hello!, I'm Het Chaudhari
 
 <h3 align="center">💻 Full Stack Developer | AI/ML Enthusiast | Full Stack Developer Intern @ EngiNow</h3>
 

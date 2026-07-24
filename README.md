@@ -21,7 +21,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 ### 🏆 Achievements
 
 - 💼 Full Stack Developer Intern @ **EngiNow**
-- 🏆 2× Hackathon Finalist
+- 🏆 **SIH'25** & **Tic-Tech-Toe'26** Hackathon Finalist
 - 🚀 Passionate about building impactful web applications
 - 📚 Continuously learning new technologies every day
 

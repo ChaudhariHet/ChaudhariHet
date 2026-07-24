@@ -1,20 +1,32 @@
 # Hi 👋, I'm Het Chaudhari
 
-### Building scalable web applications with MERN & exploring AI/ML.
+<h3 align="center">💻 Full Stack Developer | AI/ML Enthusiast | Full Stack Developer Intern @ EngiNow</h3>
 
-- 🔭 I'm currently working on **Scalable MERN applications, internship projects at EngiNow, and open-source contributions.**
+<p align="center">
+Passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through technology.
+</p>
 
-- 🌱 I'm currently learning **Advanced MERN Stack, System Design, AI/ML, Data Structures & Algorithms, and Backend Development.**
+---
 
-- 👯 I'm looking to collaborate on **Open-source projects, Full Stack applications, AI/ML projects, and innovative hackathon ideas.**
+### 🚀 About Me
 
-- 🤝 I'm looking for help with **System Design, Cloud Deployment, DevOps, and scalable backend architecture.**
+- 🔭 Currently working on **Scalable MERN applications, internship projects at EngiNow, and personal full-stack projects**
+- 🌱 Learning **Advanced MERN Stack, AI/ML, System Design, Data Structures & Algorithms, and Backend Development**
+- 👯 Open to collaborating on **Open Source, Full Stack, AI/ML, and Hackathon Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Python, Git & GitHub**
+- 📫 Reach me at **chaudharihet2911@gmail.com**
+- 📄 Resume: **https://drive.google.com/file/d/1dzqgvfyk8WrzNEufKrGQMhm0ccEk-y0E/view**
 
-- 💬 Ask me about **MERN Stack, JavaScript, React, Node.js, Express.js, MongoDB, Python, Git, GitHub, and AI.**
+---
 
-- 📫 How to reach me **📧 chaudharihet2911@gmail.com**
+### 🏆 Achievements
 
-- ⚡ Fun fact **Coffee, AI Projects and debugging at 2 AM fuel my coding journey.**
+- 💼 Full Stack Developer Intern @ **EngiNow**
+- 🏆 2× Hackathon Finalist
+- 🚀 Passionate about building impactful web applications
+- 📚 Continuously learning new technologies every day
+
+---
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1dzqgvfyk8WrzNEufKrGQMhm0ccEk-y0E/view?usp=drivesdk](https://drive.google.com/file/d/1dzqgvfyk8WrzNEufKrGQMhm0ccEk-y0E/view?usp=drivesdk)**
 

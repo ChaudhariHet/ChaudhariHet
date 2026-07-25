@@ -10,20 +10,20 @@ Passionate about building scalable web applications, exploring Artificial Intell
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Scalable MERN applications, internship projects at EngiNow, and personal full-stack projects**
-- 🌱 Learning **Advanced MERN Stack, AI/ML, System Design, Data Structures & Algorithms, and Backend Development**
-- 👯 Open to collaborating on **Open Source, Full Stack, AI/ML, and Hackathon Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Python, Git & GitHub**
-- 📫 Reach me at **chaudharihet2911@gmail.com**
+-  Currently working on **Scalable MERN applications, internship projects at EngiNow, and personal full-stack projects**
+-  Learning **Advanced MERN Stack, AI/ML, System Design, Data Structures & Algorithms, and Backend Development**
+-  Open to collaborating on **Open Source, Full Stack, AI/ML, and Hackathon Projects**
+-  Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Python, Git & GitHub**
+-  Reach me at **chaudharihet2911@gmail.com**
 
 ---
 
 ### 🏆 Achievements
 
-- 💼 Full Stack Developer Intern @ **EngiNow**
-- 🏆 **SIH'25** & **Tic-Tech-Toe'26** Hackathon Finalist
-- 🚀 Passionate about building impactful web applications
-- 📚 Continuously learning new technologies every day
+-  Full Stack Developer Intern @ **EngiNow**
+-  **SIH'25** & **Tic-Tech-Toe'26** Hackathon Finalist
+-  Passionate about building impactful web applications
+-  Continuously learning new technologies every day
 
 ---
 

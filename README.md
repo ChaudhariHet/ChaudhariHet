@@ -27,8 +27,7 @@ Passionate about building scalable web applications, exploring Artificial Intell
 
 ---
 
-- 📄 Know about my experiences **[Resume](https://github.com/user-attachments/files/31653201/Resume_Het.pdf
-)**
+- 📄 Know about my experiences **[Resume](https://github.com/user-attachments/files/31767135/resume_Het.pdf)**
 
 
 <h3 align="left">Connect with me:</h3>

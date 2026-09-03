@@ -54,3 +54,101 @@ Passionate about building scalable web applications, exploring Artificial Intell
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 </p>
 
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>📚 BookNest</h3>
+
+A modern library management system for managing books, users, borrowing, returns, and library operations.
+
+<b>Tech Stack:</b>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+
+<br><br>
+
+<a href="https://github.com/ChaudhariHet/BookNest">
+<img src="https://img.shields.io/badge/◉%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>⏱️ Chronflow</h3>
+
+A full-stack authentication-based stopwatch timer web application with secure authentication, user accounts, and persistent stopwatch statistics.
+
+<b>Tech Stack:</b>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+
+<br><br>
+
+<a href="https://github.com/ChaudhariHet/Chronflow">
+<img src="https://img.shields.io/badge/◉%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🤖 EduMentor Agent</h3>
+
+A multi-agent AI system focused on making quality education more accessible through intelligent educational assistance.
+
+<b>Tech Stack:</b>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/AI%2FML-8E75B2?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+
+<br><br>
+
+<a href="https://github.com/ChaudhariHet/EduMentor-Agent">
+<img src="https://img.shields.io/badge/◉%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>⌚ JavaScript Stopwatch</h3>
+
+A modern and responsive stopwatch application featuring lap timing, dark mode, keyboard shortcuts, and millisecond precision.
+
+<b>Tech Stack:</b>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<br><br>
+
+<a href="https://github.com/ChaudhariHet/Javascript-Stopwatch">
+<img src="https://img.shields.io/badge/◉%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---

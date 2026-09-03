@@ -1,20 +1,14 @@
-<div align="center">
-
-<br>
-
-<a href="https://github.com/ChaudhariHet">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Het+Chaudhari+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br>
-
-<p>
-  <b>B.Tech CSE (AI-ML)</b> • Full Stack Developer • AI/ML Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello!%2C+I'm+Het+Chaudhari" alt="Hello, I'm Het Chaudhari" />
 </p>
 
-<br>
+<h3 align="center">💻 Full Stack Developer | AI/ML Enthusiast | Full Stack Developer Intern @ EngiNow</h3>
 
-</div>
+<p align="center">
+Passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through technology.
+</p>
+
+---
 
 ### 🚀 About Me
 

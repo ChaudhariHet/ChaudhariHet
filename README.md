@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello!%2C+I'm+Het+Chaudhari;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality" alt="Hello, I'm Het Chaudhari" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hello!%2C+I'm+Het+Chaudhari;I+Build+Digital+Experiences;Full+Stack+Developer;Exploring+AI%2FML;Turning+Ideas+Into+Reality" alt="Het Chaudhari" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | AI/ML Enthusiast | Full Stack Developer Intern @ EngiNow</h3>
